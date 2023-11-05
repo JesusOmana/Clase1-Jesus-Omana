@@ -1,0 +1,12 @@
+footer {
+    background-color: rgb(246, 246, 246);
+    height: 20vh;
+    position: unset;
+    padding: 20px;
+    text-align: center;
+    font-size: x-large;
+}
+
+body {
+    background-color: black;
+}
