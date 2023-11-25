@@ -9,4 +9,4 @@ tener contacto con la mimsa, nos vamos a enfocar más en todo lo referente al fr
 
 PARA VER EL FORMULARIO HACER CLIK EN EL SIGUIENTE ENLACE
 
-DEPLOY ==> https://luxury-hummingbird-5ffc6c.netlify.app
+DEPLOY ==> https://jesusomana.github.io/Clase1-Jesus-Omana/
